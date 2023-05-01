@@ -5,7 +5,11 @@ Understanding an individual’s risk of drug consumption is critical. In this pr
 - [UCI Machine Learning Repository, Drug consumption data set](https://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29) 
 
 2. Documents
-- [Final report]() This report contains detailed information about data wrangling, exploratory data analysis, modeling, and performance evaluation.
+- [Final report](https://github.com/thanhn1/PersonalityAndDrugConsumption/blob/main/documents/Capstone%20two%20report.pdf) This report contains detailed information about data wrangling, exploratory data analysis, modeling, and performance evaluation.
 - Presentation (to be added)
 
 3. Notebooks
+- [Data wrangling](https://nbviewer.jupyter.org/github/thanhn1/PersonalityAndDrugConsumption/blob/main/notebooks/Step2_data_wrangling.ipynb)
+- [Exploratory data analysis](https://nbviewer.jupyter.org/github/thanhn1/PersonalityAndDrugConsumption/blob/main/notebooks/Step3_eda.ipynb)
+- [Preprocessing](https://nbviewer.jupyter.org/github/thanhn1/PersonalityAndDrugConsumption/blob/main/notebooks/Step4_preprocessing.ipynb)
+- [Modeling](https://nbviewer.jupyter.org/github/thanhn1/PersonalityAndDrugConsumption/blob/main/notebooks/Step5_modeling.ipynb)
