@@ -6,7 +6,7 @@ Understanding an individual’s risk of drug consumption is critical. In this pr
 
 2. Documents
 - [Final report](https://github.com/thanhn1/PersonalityAndDrugConsumption/blob/main/documents/Capstone%20two%20report.pdf) This report contains detailed information about data wrangling, exploratory data analysis, modeling, and performance evaluation.
-- Presentation (to be added)
+- [Presentation](https://github.com/thanhn1/PersonalityAndDrugConsumption/blob/main/documents/Capstone%20two%20slides.pdf) This presentation summarizes the data wrangling, EDA, modeling and conclusions for this project.
 
 3. Notebooks
 - [Data wrangling](https://nbviewer.jupyter.org/github/thanhn1/PersonalityAndDrugConsumption/blob/main/notebooks/Step2_data_wrangling.ipynb)
